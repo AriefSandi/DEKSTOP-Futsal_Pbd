@@ -29,6 +29,5 @@ Public Class Dashboard
         c = cmd.ExecuteScalar().ToString()
         BunifuCustomLabel7.Text = c
         tutupkoneksi()
-
     End Sub
 End Class

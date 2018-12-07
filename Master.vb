@@ -43,7 +43,6 @@
         MTarif.TopLevel = False
         main.MainPanel.Controls.Add(MTarif)
         MTarif.Show()
+   
     End Sub
-
-
 End Class

@@ -79,6 +79,4 @@ Public Class login
         End If
 
     End Sub
-
-
 End Class

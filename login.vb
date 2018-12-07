@@ -77,7 +77,5 @@ Public Class login
                 MessageBox.Show("Kombinasi Username dan Password Salah", "Konfirmasi", MessageBoxButtons.OK, MessageBoxIcon.Error)
             End If
         End If
-
-
     End Sub
 End Class

@@ -29,6 +29,6 @@ Module Module1
                 MsgBox("Gagal menutup koneksi: " & ex.ToString)
             End Try
         End If
+    
     End Sub
-
 End Module

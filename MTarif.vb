@@ -15,5 +15,6 @@ Public Class MTarif
             table1.DataSource = ass
         Next
         tutupkoneksi()
-    End Sub
+   
+End Sub
 End Class

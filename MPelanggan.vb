@@ -15,5 +15,6 @@ Public Class MPelanggan
             table1.DataSource = ass
         Next
         tutupkoneksi()
+
     End Sub
 End Class

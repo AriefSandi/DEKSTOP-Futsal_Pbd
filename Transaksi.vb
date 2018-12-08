@@ -14,7 +14,7 @@
         TSewa.Show()
     End Sub
 
-    'bayar
+    'bayarr
     Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
         main.MainPanel.Controls.Clear()
         TBayar.TopLevel = False
